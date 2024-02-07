@@ -1,0 +1,52 @@
+[16-Dec-2019 06:43:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 142
+[16-Dec-2019 06:44:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 142
+[16-Dec-2019 06:44:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 142
+[16-Dec-2019 06:44:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 142
+[16-Dec-2019 06:47:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 142
+[16-Dec-2019 06:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 142
+[16-Dec-2019 06:54:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 07:02:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/config/session.php on line 10
+[16-Dec-2019 07:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 130
+[16-Dec-2019 07:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 139
+[16-Dec-2019 07:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 147
+[16-Dec-2019 07:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 155
+[16-Dec-2019 07:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 163
+[16-Dec-2019 07:10:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 239
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tun in /home2/ntwani/public_html/sacco/application/include/top_bar.php on line 68
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/top_bar.php on line 98
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tun in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 8
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 33
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 38
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 60
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 74
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 90
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 130
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 166
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 177
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 189
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 204
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/side_bar.php on line 218
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/dashboard.php on line 13
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 3
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 32
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 108
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 119
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 176
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 185
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 222
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 270
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 277
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 315
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 355
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 419
+[16-Dec-2019 07:10:00 UTC] PHP Notice:  Undefined index: tid in /home2/ntwani/public_html/sacco/application/include/dashboard_chart.php on line 428
+[16-Dec-2019 07:14:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 07:19:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 07:29:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 07:29:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 07:43:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 13:18:37 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 13:18:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 13:18:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
+[16-Dec-2019 13:42:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home2/ntwani/public_html/sacco/application/include/header.php on line 141
